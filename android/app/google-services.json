@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250308318834",
+    "project_id": "checkoutapp-7472c",
+    "storage_bucket": "checkoutapp-7472c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250308318834:android:9052f6c2444998768954eb",
+        "android_client_info": {
+          "package_name": "eugenekiyengo.checkoutapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250308318834-u2v62hn9r5kui3i4ulttjqmdu1kb2lpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0N4xhY2sSiRGJTelzxuHjVdM30tHJQxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250308318834-u2v62hn9r5kui3i4ulttjqmdu1kb2lpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
